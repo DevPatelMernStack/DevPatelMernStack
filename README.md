@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DevPatelMernStack](https://github.com/DevPatelMernStack)
+- 👨‍💻 All of my projects are available at https://github.com/DevPatelMernStack?tab=repositories
 
 - 💬 Ask me about **React Js**
 
