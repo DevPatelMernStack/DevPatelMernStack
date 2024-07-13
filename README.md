@@ -1,4 +1,4 @@
-[![MasterHead]((img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."))](https://github.com/DevPatelMernStack)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 # 🌟 About Me:
 🎓 Student at Gujarat University<br>🚀 Learning React.js and interested in MERN stack development
 
