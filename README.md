@@ -1,3 +1,4 @@
+[![MasterHead](https://images.prismic.io/loco-blogs/ZjhW4EMTzAJOCjAJ_1_yw0TnheAGN-LPneDaTlaxw.gif?auto=format,compress)](https://github.com/DevPatelMernStack)
 # 🌟 About Me:
 🎓 Student at Gujarat University<br>🚀 Learning React.js and interested in MERN stack development
 
