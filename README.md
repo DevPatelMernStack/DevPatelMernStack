@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://rishavchanda.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/DevPatelMernStack)
 # 🌟 About Me:
 🎓 Student at Gujarat University<br>🚀 Learning React.js and interested in MERN stack development
 
