@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌟 About Me:
 🎓 Student at Gujarat University<br>🚀 Learning React.js and interested in MERN stack development
 
 
