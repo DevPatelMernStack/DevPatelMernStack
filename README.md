@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Dev Patel</h1>
 
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/DevPatelMernStack)
+[![MasterHead]
 # 💫 About Me:
 🎓 Student at Gujarat University<br>🚀 Learning React.js and interested in MERN stack development
 
