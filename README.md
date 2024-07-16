@@ -1,6 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Dev Patel</h1>
 
-[![MasterHead]
 # 💫 About Me:
 🎓 Student at Gujarat University<br>🚀 Learning React.js and interested in MERN stack development
 
